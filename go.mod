@@ -1,4 +1,4 @@
-module github.com/fatih/color
+module github.com/tymonx/go-color
 
 go 1.13
 
